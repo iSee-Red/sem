@@ -1,1 +1,1 @@
-Attempt 8
+Project for testing DevOps techniques.
